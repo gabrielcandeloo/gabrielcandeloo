@@ -42,7 +42,7 @@
 
 ###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/gabrielcandeloo/gabrielcandeloo/snake-output/snake.svg" alt="Snake animation" />
+<img data-importer="snake" src="https://github.com/gabrielcandeloo/gabrielcandeloo/blob/main/snake.yml" alt="Snake animation" />
 
 ###
 
