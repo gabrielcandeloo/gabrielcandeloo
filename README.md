@@ -1,4 +1,4 @@
-<h1 data-importer="text" align="left">CandeloTECH</h1>
+<h1 data-importer="text" align="left">👾 CandeloTECH 👾</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h3 data-importer="text" align="left">Sobre mim:</h3>
+<h3 data-importer="text" align="left">💭 Sobre mim</h3>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h3 data-importer="text" align="left">Ferramentas</h3>
+<h3 data-importer="text" align="left">🛠️ Ferramentas</h3>
 
 ###
 
