@@ -2,19 +2,19 @@
 
 ###
 
-<h6 data-importer="text" align="left">Olá!<br><br>Me chamo Gabriel Candelo e seja muito bem vindo ao meu perfil no GitHub😾!</h6>
+<p data-importer="text" align="left">Olá!<br><br>Me chamo Gabriel Candelo e seja muito bem vindo ao meu perfil no GitHub😾!</p>
 
 ###
 
-<h3 data-importer="text" align="left">💭 Sobre mim</h3>
+<h2 data-importer="text" align="left">Sobre mim:</h2>
 
 ###
 
-<h6 data-importer="text" align="left">Estudante universitário de Ciências da Computação. Sou apaixonado por tecnologia em várias de suas formas, mas tenho foco na Cibersegurança e seus conceitos atrelados.</h6>
+<p data-importer="text" align="left">Estudante universitário de Ciências da Computação. Sou apaixonado por tecnologia em várias de suas formas, mas tenho foco na Cibersegurança e seus conceitos atrelados.</p>
 
 ###
 
-<h3 data-importer="text" align="left">🛠️ Ferramentas</h3>
+<h3 data-importer="text" align="left">Ferramentas</h3>
 
 ###
 
@@ -42,7 +42,7 @@
 
 ###
 
-<img data-importer="snake" src="https://github.com/gabrielcandeloo/gabrielcandeloo/blob/main/snake.yml" alt="Snake animation" />
+<img data-importer="snake" src="https://raw.githubusercontent.com/gabrielcandeloo/gabrielcandeloo/snake-output/snake.svg" alt="Snake animation" />
 
 ###
 
